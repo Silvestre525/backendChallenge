@@ -1,0 +1,7 @@
+Django>=4.2,<6.1 
+djangorestframework
+psycopg2-binary
+redis
+django-redis
+uvicorn[standard]
+python-dotenv

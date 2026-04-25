@@ -1,0 +1,30 @@
+# Python / Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Environment Variables
+.env
+*.env
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+media/
+
+# Editor / IDE / OS specific
+.vscode/
+.idea/
+.DS_Store
+__MACOSX/
+
+# Docker build/IDE caches
+.pytest_cache/
+.coverage
+htmlcov/
